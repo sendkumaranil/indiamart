@@ -11,4 +11,5 @@ public interface ProductCatelog {
 
 	public List<String> getProductDetails();
 	public Product getProduct();
+	public String testHeartBeat();
 }

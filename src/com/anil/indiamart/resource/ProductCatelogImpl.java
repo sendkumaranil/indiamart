@@ -36,4 +36,11 @@ public class ProductCatelogImpl implements ProductCatelog {
 		product.setExpdate("02/06/2018");
 		return product;
 	}
+
+	@Override
+	public String testHeartBeat() {
+		
+		return "indiamart service is up!!";
+	}
+	
 }
