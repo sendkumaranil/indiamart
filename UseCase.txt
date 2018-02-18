@@ -1,2 +1,3 @@
 This is use case documents:
 This is soap web service which expose the data on requirement.
+Get the product details.
